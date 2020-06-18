@@ -1,0 +1,69 @@
+.utama {
+	width: 1020px;
+	margin: auto;
+}
+
+.header {
+	margin-bottom: 10px;
+}
+
+.menu {
+	padding : 15px;
+	background: #101010;
+	color: #fff;
+	text-decoration: none;
+}
+
+.menu a {
+	padding: 10px;
+	background-color: #101010;
+	color: white;
+	text-decoration: none;
+}
+
+.menu a:hover {
+	background: #000;
+}
+
+.menu {
+	margin-top: -5px;
+	margin-bottom: 20px;
+	position: relative;
+
+}
+
+table a{
+	border: 1px solid #ccc;
+	padding: 10px;
+	background-color: #101010;
+	color: #fff;
+}
+
+table tr{
+	border: 1px solid #ccc;
+	padding: 10px;
+	background-color: #C0C0C0;
+	color: #fff;
+}
+
+table{
+	border: 1px solid #C0C0C0;
+	border-collapse: collapse;
+}
+
+table th{
+	border: 1px solid #ccc;
+	padding: 10px;
+	background-color: #0000FF;
+	color: #fff;
+}
+
+table td{
+	border: 1px solid #C0C0C0;
+	padding: 10px;
+
+}
+
+h2{
+	color: #fff;
+}

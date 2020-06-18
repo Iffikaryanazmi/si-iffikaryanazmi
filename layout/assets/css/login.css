@@ -1,0 +1,57 @@
+body {
+    font-family: sans-serif;
+    background: linear-gradient(to right, blue 0%, Cyan 100%);
+} 
+h1 {
+    text-align: center;
+    font-weight: 300;
+}
+
+.tulisan {
+    text-align: center;
+    text-transform: uppercase;
+
+}
+
+.kotak {
+    width: 350px;
+    background-image: url('../../assets/images/bg3.jpg');
+    background-size: cover;
+    margin: auto;
+    margin-top: 150px;
+    padding: 30px 20px;
+    color: white;
+    border-radius: 20px;
+}
+
+label {
+    font-size: 11pt;
+}
+
+.form_login {
+    box-sizing: border-box;
+    width: 100%;
+    padding: 10px;
+    font-size: 11pt;
+    margin-bottom: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+}
+
+.tombol_login {
+    background: #46de4b;
+    color: white;
+    font-size: 11pt;
+    width: 100%;
+    border:none;
+    border-radius: 3px;
+    padding: 10px 20px;
+
+}
+
+
+form {
+    margin-top: 40px;
+}
